@@ -1,4 +1,4 @@
-<img width="1500" height="675" alt="2_monthly_sales_trend" src="https://github.com/user-attachments/assets/1fdb3ff5-485b-4f02-9d83-b0b4fccaec6b" />Retail Sales Performance Analysis
+Retail Sales Performance Analysis
 
 A Python project that analyzes a retail (Superstore) sales dataset to uncover sales trends, top-performing products and regions, and shipping performance.
 
